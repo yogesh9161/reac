@@ -8,11 +8,14 @@ import Chefs from'../components/chefs';
 export default function  page() {
   return (
     <div>
+
+
+
     <Navbar/>
     <Home/>
     <About/>
     <Section/>
-    <Chefs/>
+   
    </div>
  
   );
