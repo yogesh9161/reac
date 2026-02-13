@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/nxproject/my-app/app/page.tsx"],"sourcesContent":["import Image from \"next/image\";\nimport Nav from'../components/navbar';\n\nexport default function  page() {\n  return (\n    <div>\n    <Navbar/>\n   </div>\n \n  );\n}\n"],"names":[],"mappings":";;;;;;AAGe,SAAU;IACvB,qBACE,2PAAC;kBACD,cAAA,2PAAC;;;;;;;;;;AAIL"}}]
+}
